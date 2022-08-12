@@ -9,5 +9,5 @@ func main() {
 }
 
 func new_func() int {
-	return 15
+	return 1
 }
