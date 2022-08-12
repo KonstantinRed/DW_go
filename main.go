@@ -7,3 +7,7 @@ func main() {
 	fmt.Println("hello world")
 	fmt.Println(x)
 }
+
+func new_func() int {
+	return 12
+}
